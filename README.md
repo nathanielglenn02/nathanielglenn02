@@ -1,7 +1,5 @@
 ![Banner](assets/github-header-banner.png)
 
-<h1 align="center">Hello, I'm Nathaniel Glenn Hanson</h1>
-
 ###
 
 <p align="left">🛠️ Framework</p>
